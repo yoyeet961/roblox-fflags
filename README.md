@@ -1,4 +1,4 @@
-## Since the latteflags repository is gone now, here's an archive of all the fastflags listed there.
+# Since the latteflags repository is gone now, here's an archive of all the fastflags listed there.
 
 #### Version: `10.10.24` `F R E A K`
 * **224 Currently Listed**
